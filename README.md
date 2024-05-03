@@ -102,5 +102,7 @@ pip install tensorflow
    ```
    
 ## Result
-
-![](./images/results.gif) ![](./images/moving.gif)
+### Open & Close gripper
+![](./images/results.gif)
+### Moving arm
+![](./images/moving.gif)
