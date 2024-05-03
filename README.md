@@ -5,6 +5,8 @@
 ## Introduction
 This project aims to develop a system where a DVRK (da Vinci Research Kit) robot can follow hand movements using hand tracking. The system utilizes a dataset obtained from https://github.com/hukenovs/hagrid. The code is based on TensorFlow 1.15 and ROS (Robot Operating System).
 
+You can run hand tracking program in ```src/hand_follower/scripts/testing.py``` independently
+
 ## ROS Noetic Setup
 
 ### 1. Install ROS Noetic
@@ -83,11 +85,11 @@ pip install tensorflow
    qlacloserelays
    # Launch single arm with console:
    
-   		roslaunch cwru_dvrk_launch console_single_arm.launch [arm]:[sim]
+   roslaunch cwru_dvrk_launch console_single_arm.launch [arm]:[sim]
    
    # Launch full system with console:
    
-   		roslaunch cwru_dvrk_launch console_full_system.launch [sim]
+   roslaunch cwru_dvrk_launch console_full_system.launch [sim]
    
    ```
 4. Run program in another
