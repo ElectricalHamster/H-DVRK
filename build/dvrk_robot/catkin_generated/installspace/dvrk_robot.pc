@@ -1,0 +1,8 @@
+prefix=/home/hands/ros_ws/install
+
+Name: dvrk_robot
+Description: Description of dvrk_robot
+Version: 2.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ldvrk_utilities
+Requires: cisst_ros_crtk roscpp roslib

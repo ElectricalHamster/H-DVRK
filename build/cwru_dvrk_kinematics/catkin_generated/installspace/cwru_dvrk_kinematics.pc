@@ -1,0 +1,8 @@
+prefix=/home/hands/ros_ws/install
+
+Name: cwru_dvrk_kinematics
+Description: Description of cwru_dvrk_kinematics
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lecm_kinematics -lpsm_kinematics
+Requires: cmake_modules roscpp std_msgs sensor_msgs tf roslib

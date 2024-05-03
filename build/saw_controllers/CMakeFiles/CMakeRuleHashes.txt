@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+89485185c3a10e36a4af2f7166a3be35 code/Qt/CMakeFiles/sawControllersQt_autogen

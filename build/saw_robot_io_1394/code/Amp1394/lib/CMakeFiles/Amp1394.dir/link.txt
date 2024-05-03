@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/libAmp1394.a  CMakeFiles/Amp1394.dir/code/AmpIO.cpp.o CMakeFiles/Amp1394.dir/code/Amp1394Time.cpp.o CMakeFiles/Amp1394.dir/code/BasePort.cpp.o CMakeFiles/Amp1394.dir/code/EthBasePort.cpp.o CMakeFiles/Amp1394.dir/code/EthUdpPort.cpp.o CMakeFiles/Amp1394.dir/code/PortFactory.cpp.o CMakeFiles/Amp1394.dir/code/FirewirePort.cpp.o
+/usr/bin/ranlib ../../../lib/libAmp1394.a

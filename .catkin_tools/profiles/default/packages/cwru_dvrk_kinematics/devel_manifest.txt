@@ -1,0 +1,7 @@
+cwru/cwru_dvrk_kinematics
+/home/hands/ros_ws/devel/.private/cwru_dvrk_kinematics/cmake.lock /home/hands/ros_ws/devel/./cmake.lock
+/home/hands/ros_ws/devel/.private/cwru_dvrk_kinematics/share/cwru_dvrk_kinematics/cmake/cwru_dvrk_kinematicsConfig-version.cmake /home/hands/ros_ws/devel/share/cwru_dvrk_kinematics/cmake/cwru_dvrk_kinematicsConfig-version.cmake
+/home/hands/ros_ws/devel/.private/cwru_dvrk_kinematics/share/cwru_dvrk_kinematics/cmake/cwru_dvrk_kinematicsConfig.cmake /home/hands/ros_ws/devel/share/cwru_dvrk_kinematics/cmake/cwru_dvrk_kinematicsConfig.cmake
+/home/hands/ros_ws/devel/.private/cwru_dvrk_kinematics/lib/libpsm_kinematics.so /home/hands/ros_ws/devel/lib/libpsm_kinematics.so
+/home/hands/ros_ws/devel/.private/cwru_dvrk_kinematics/lib/libecm_kinematics.so /home/hands/ros_ws/devel/lib/libecm_kinematics.so
+/home/hands/ros_ws/devel/.private/cwru_dvrk_kinematics/lib/pkgconfig/cwru_dvrk_kinematics.pc /home/hands/ros_ws/devel/lib/pkgconfig/cwru_dvrk_kinematics.pc

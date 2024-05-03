@@ -1,0 +1,8 @@
+prefix=/home/hands/ros_ws/install
+
+Name: hand_follower
+Description: Description of hand_follower
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,7 @@
+/home/hands/ros_ws/build/saw_text_to_speech/CMakeFiles/install/strip.dir
+/home/hands/ros_ws/build/saw_text_to_speech/CMakeFiles/install/local.dir
+/home/hands/ros_ws/build/saw_text_to_speech/CMakeFiles/install.dir
+/home/hands/ros_ws/build/saw_text_to_speech/CMakeFiles/list_install_components.dir
+/home/hands/ros_ws/build/saw_text_to_speech/CMakeFiles/rebuild_cache.dir
+/home/hands/ros_ws/build/saw_text_to_speech/CMakeFiles/edit_cache.dir
+/home/hands/ros_ws/build/saw_text_to_speech/CMakeFiles/sawTextToSpeech.dir

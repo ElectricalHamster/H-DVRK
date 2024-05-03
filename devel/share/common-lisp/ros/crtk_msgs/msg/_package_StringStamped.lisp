@@ -1,0 +1,1 @@
+/home/hands/ros_ws/devel/.private/crtk_msgs/share/common-lisp/ros/crtk_msgs/msg/_package_StringStamped.lisp

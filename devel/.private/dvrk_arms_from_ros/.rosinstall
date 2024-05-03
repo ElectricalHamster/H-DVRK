@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hands/ros_ws/devel/.private/dvrk_arms_from_ros/setup.sh

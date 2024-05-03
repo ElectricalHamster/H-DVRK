@@ -1,0 +1,2 @@
+cisst-saw/sawIntuitiveResearchKit/examples/derivedTeleOperationPSM/components
+/home/hands/ros_ws/devel/.private/saw_intuitive_research_kit_example_derived_teleop_psm/lib/libsawIntuitiveResearchKitDerivedTeleOperationPSM.so /home/hands/ros_ws/devel/lib/libsawIntuitiveResearchKitDerivedTeleOperationPSM.so

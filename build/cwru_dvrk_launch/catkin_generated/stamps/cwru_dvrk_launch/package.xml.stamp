@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package>
+	<name>cwru_dvrk_launch</name>
+	<version>1.0.0</version>
+	<description>CWRU-Robotics wrapper launch for JHU-DVRK hardware.</description>
+
+	<maintainer email="qmn2@case.edu">Quan Nguyen</maintainer>
+	<maintainer email="mac411@case.edu">Marc Chase</maintainer>
+
+	<license>MIT</license>
+
+	<author email="qmn2@case.edu">Quan Nguyen</author>
+	<author email="mac411@case.edu">Marc Chase</author>
+
+
+	<buildtool_depend>catkin</buildtool_depend>
+
+	<build_depend>roscpp</build_depend>
+	<build_depend>sensor_msgs</build_depend>
+
+	<run_depend>roscpp</run_depend>
+	<run_depend>sensor_msgs</run_depend>
+
+	<run_depend>dvrk-ros</run_depend>
+</package>

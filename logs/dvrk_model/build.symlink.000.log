@@ -1,0 +1,3 @@
+Symlinking /home/hands/ros_ws/devel/share/dvrk_model/cmake/dvrk_modelConfig.cmake
+Symlinking /home/hands/ros_ws/devel/share/dvrk_model/cmake/dvrk_modelConfig-version.cmake
+Symlinking /home/hands/ros_ws/devel/lib/pkgconfig/dvrk_model.pc

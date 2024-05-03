@@ -1,0 +1,7 @@
+set(crtk_python_client_SETUP_PY_SETUP_MODULE "distutils.core")
+set(crtk_python_client_SETUP_PY_VERSION "1.0.0")
+set(crtk_python_client_SETUP_PY_SCRIPTS "")
+set(crtk_python_client_SETUP_PY_PACKAGES "crtk")
+set(crtk_python_client_SETUP_PY_PACKAGE_DIRS "src/crtk")
+set(crtk_python_client_SETUP_PY_MODULES "")
+set(crtk_python_client_SETUP_PY_MODULE_DIRS "")

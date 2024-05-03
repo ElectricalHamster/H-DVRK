@@ -1,0 +1,7 @@
+cisst-saw/cisst-ros/cisst_ros_bridge
+/home/hands/ros_ws/devel/.private/cisst_ros_bridge/cmake.lock /home/hands/ros_ws/devel/./cmake.lock
+/home/hands/ros_ws/devel/.private/cisst_ros_bridge/share/cisst_ros_bridge/cmake/cisst_ros_bridgeConfig.cmake /home/hands/ros_ws/devel/share/cisst_ros_bridge/cmake/cisst_ros_bridgeConfig.cmake
+/home/hands/ros_ws/devel/.private/cisst_ros_bridge/share/cisst_ros_bridge/cmake/cisst_ros_bridgeConfig-version.cmake /home/hands/ros_ws/devel/share/cisst_ros_bridge/cmake/cisst_ros_bridgeConfig-version.cmake
+/home/hands/ros_ws/devel/.private/cisst_ros_bridge/lib/libcisst_ros_bridge.so /home/hands/ros_ws/devel/lib/libcisst_ros_bridge.so
+/home/hands/ros_ws/devel/.private/cisst_ros_bridge/lib/cisst_ros_bridge/example_bridge /home/hands/ros_ws/devel/lib/cisst_ros_bridge/example_bridge
+/home/hands/ros_ws/devel/.private/cisst_ros_bridge/lib/pkgconfig/cisst_ros_bridge.pc /home/hands/ros_ws/devel/lib/pkgconfig/cisst_ros_bridge.pc

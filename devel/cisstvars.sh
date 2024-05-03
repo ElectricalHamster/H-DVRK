@@ -1,0 +1,1 @@
+/home/hands/ros_ws/devel/.private/cisst/cisstvars.sh

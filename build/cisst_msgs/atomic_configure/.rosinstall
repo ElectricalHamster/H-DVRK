@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hands/ros_ws/devel/.private/cisst_msgs/setup.sh

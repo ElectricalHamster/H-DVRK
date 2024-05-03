@@ -1,0 +1,5 @@
+Symlinking /home/hands/ros_ws/devel/bin/sawRobotIO1394QtConsole
+Symlinking /home/hands/ros_ws/devel/bin/sawRobotIO1394QtDataPlot
+Symlinking /home/hands/ros_ws/devel/bin/sawRobotIO1394CurrentCalibration
+Symlinking /home/hands/ros_ws/devel/bin/sawRobotIO1394DataCollection
+Symlinking /home/hands/ros_ws/devel/bin/sawRobotIO1394XMLtoJSON

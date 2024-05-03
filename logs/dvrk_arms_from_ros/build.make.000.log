@@ -1,0 +1,23 @@
+[35m[1mScanning dependencies of target dvrk_arm_from_ros[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/dvrk_arm_from_ros.dir/src/dvrk_arm_from_ros.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/dvrk_arm_from_ros.dir/src/dvrk_psm_from_ros.cpp.o[0m
+[01m[K/home/hands/ros_ws/src/dvrk-ros/dvrk_arms_from_ros/components/src/dvrk_arm_from_ros.cpp:[m[K In constructor ‘[01m[Kdvrk_arm_from_ros::dvrk_arm_from_ros(const string&, double)[m[K’:
+[01m[K/home/hands/ros_ws/src/dvrk-ros/dvrk_arms_from_ros/components/src/dvrk_arm_from_ros.cpp:30:50:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsROSBridge::mtsROSBridge(const string&, double, bool, bool, ros::NodeHandle*)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   30 |     : mtsROSBridge(componentName, periodInSeconds[01;35m[K)[m[K
+      |                                                  [01;35m[K^[m[K
+In file included from [01m[K/home/hands/ros_ws/src/dvrk-ros/dvrk_arms_from_ros/components/include/dvrk_arm_from_ros.h:22[m[K,
+                 from [01m[K/home/hands/ros_ws/src/dvrk-ros/dvrk_arms_from_ros/components/src/dvrk_arm_from_ros.cpp:22[m[K:
+[01m[K/home/hands/ros_ws/src/cisst-saw/cisst-ros/cisst_ros_bridge/include/cisst_ros_bridge/mtsROSBridge.h:546:22:[m[K [01;36m[Knote: [m[Kdeclared here
+  546 |     CISST_DEPRECATED [01;36m[KmtsROSBridge[m[K(const std::string & componentName,
+      |                      [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/home/hands/ros_ws/src/dvrk-ros/dvrk_arms_from_ros/components/src/dvrk_arm_from_ros.cpp:[m[K In constructor ‘[01m[Kdvrk_arm_from_ros::dvrk_arm_from_ros(const mtsTaskPeriodicConstructorArg&)[m[K’:
+[01m[K/home/hands/ros_ws/src/dvrk-ros/dvrk_arms_from_ros/components/src/dvrk_arm_from_ros.cpp:36:40:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsROSBridge::mtsROSBridge(const string&, double, bool, bool, ros::NodeHandle*)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   36 |     : mtsROSBridge(arg.Name, arg.Period[01;35m[K)[m[K
+      |                                        [01;35m[K^[m[K
+In file included from [01m[K/home/hands/ros_ws/src/dvrk-ros/dvrk_arms_from_ros/components/include/dvrk_arm_from_ros.h:22[m[K,
+                 from [01m[K/home/hands/ros_ws/src/dvrk-ros/dvrk_arms_from_ros/components/src/dvrk_arm_from_ros.cpp:22[m[K:
+[01m[K/home/hands/ros_ws/src/cisst-saw/cisst-ros/cisst_ros_bridge/include/cisst_ros_bridge/mtsROSBridge.h:546:22:[m[K [01;36m[Knote: [m[Kdeclared here
+  546 |     CISST_DEPRECATED [01;36m[KmtsROSBridge[m[K(const std::string & componentName,
+      |                      [01;36m[K^~~~~~~~~~~~[m[K
+[100%] [32m[1mLinking CXX shared library /home/hands/ros_ws/devel/.private/dvrk_arms_from_ros/lib/libdvrk_arm_from_ros.so[0m
+[100%] Built target dvrk_arm_from_ros

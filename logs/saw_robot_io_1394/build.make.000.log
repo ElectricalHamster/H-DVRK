@@ -1,0 +1,140 @@
+[35m[1mScanning dependencies of target Amp1394[0m
+[  1%] [32mBuilding CXX object code/Amp1394/lib/CMakeFiles/Amp1394.dir/code/AmpIO.cpp.o[0m
+[  3%] [32mBuilding CXX object code/Amp1394/lib/CMakeFiles/Amp1394.dir/code/Amp1394Time.cpp.o[0m
+[  5%] [32mBuilding CXX object code/Amp1394/lib/CMakeFiles/Amp1394.dir/code/BasePort.cpp.o[0m
+[  7%] [32mBuilding CXX object code/Amp1394/lib/CMakeFiles/Amp1394.dir/code/EthBasePort.cpp.o[0m
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/lib/code/EthBasePort.cpp:[m[K In static member function ‘[01m[Kstatic void EthBasePort::PrintEthernetPacket(std::ostream&, const quadlet_t*, unsigned int)[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/lib/code/EthBasePort.cpp:399:96:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kmax_quads[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  399 | void EthBasePort::PrintEthernetPacket(std::ostream &out, const quadlet_t *packet, [01;35m[Kunsigned int max_quads[m[K)
+      |                                                                                   [01;35m[K~~~~~~~~~~~~~^~~~~~~~~[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/lib/code/EthBasePort.cpp:[m[K In static member function ‘[01m[Kstatic bool EthBasePort::checkCRC(const unsigned char*)[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/lib/code/EthBasePort.cpp:804:49:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kpacket[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  804 | bool EthBasePort::checkCRC([01;35m[Kconst unsigned char *packet[m[K)
+      |                            [01;35m[K~~~~~~~~~~~~~~~~~~~~~^~~~~~[m[K
+[  9%] [32mBuilding CXX object code/Amp1394/lib/CMakeFiles/Amp1394.dir/code/EthUdpPort.cpp.o[0m
+[ 11%] [32mBuilding CXX object code/Amp1394/lib/CMakeFiles/Amp1394.dir/code/PortFactory.cpp.o[0m
+[ 13%] [32mBuilding CXX object code/Amp1394/lib/CMakeFiles/Amp1394.dir/code/FirewirePort.cpp.o[0m
+[ 15%] [32m[1mLinking CXX static library ../../../lib/libAmp1394.a[0m
+[ 15%] Built target Amp1394
+[35m[1mScanning dependencies of target time1394[0m
+[ 17%] [32mBuilding C object code/Amp1394/util/CMakeFiles/time1394.dir/time1394.c.o[0m
+[ 19%] [32m[1mLinking C executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394/bin/time1394[0m
+[ 19%] Built target time1394
+[35m[1mScanning dependencies of target info1394[0m
+[ 21%] [32mBuilding C object code/Amp1394/util/CMakeFiles/info1394.dir/info1394.c.o[0m
+[ 23%] [32m[1mLinking C executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394/bin/info1394[0m
+[ 23%] Built target info1394
+[35m[1mScanning dependencies of target block1394[0m
+[ 25%] [32mBuilding C object code/Amp1394/util/CMakeFiles/block1394.dir/block1394.c.o[0m
+[ 27%] [32m[1mLinking C executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394/bin/block1394[0m
+[34m[1mGenerating quad1394[0m
+[ 27%] Built target block1394
+[35m[1mScanning dependencies of target qladisp[0m
+[ 29%] [32mBuilding CXX object code/Amp1394/tests/CMakeFiles/qladisp.dir/qladisp.cpp.o[0m
+[ 31%] [32mBuilding CXX object code/Amp1394/tests/CMakeFiles/qladisp.dir/Amp1394Console.cpp.o[0m
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:[m[K In static member function ‘[01m[Kstatic void Amp1394Console::Print(int, int, const char*, ...)[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:63:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint vwprintw(WINDOW*, const char*, __va_list_tag*)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   63 |     vwprintw(stdscr, cstr, args[01;35m[K)[m[K;
+      |                                [01;35m[K^[m[K
+In file included from [01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:29[m[K:
+[01m[K/usr/include/curses.h:825:28:[m[K [01;36m[Knote: [m[Kdeclared here
+  825 | extern NCURSES_EXPORT(int) [01;36m[Kvwprintw[m[K (WINDOW *, const char *,va_list) GCC_DEPRECATED(use vw_printw); /* implemented */
+      |                            [01;36m[K^~~~~~~~[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:63:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint vwprintw(WINDOW*, const char*, __va_list_tag*)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   63 |     vwprintw(stdscr, cstr, args[01;35m[K)[m[K;
+      |                                [01;35m[K^[m[K
+In file included from [01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:29[m[K:
+[01m[K/usr/include/curses.h:825:28:[m[K [01;36m[Knote: [m[Kdeclared here
+  825 | extern NCURSES_EXPORT(int) [01;36m[Kvwprintw[m[K (WINDOW *, const char *,va_list) GCC_DEPRECATED(use vw_printw); /* implemented */
+      |                            [01;36m[K^~~~~~~~[m[K
+[ 33%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394/bin/qladisp[0m
+[ 33%] Built target qladisp
+[35m[1mScanning dependencies of target qlacloserelays[0m
+[ 35%] [32mBuilding CXX object code/Amp1394/tests/CMakeFiles/qlacloserelays.dir/qlacloserelays.cpp.o[0m
+[ 37%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394/bin/qlacloserelays[0m
+[ 37%] Built target qlacloserelays
+[35m[1mScanning dependencies of target fwPortTest[0m
+[ 39%] [32mBuilding CXX object code/Amp1394/tests/CMakeFiles/fwPortTest.dir/fwPortTest.cpp.o[0m
+[ 41%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394/bin/fwPortTest[0m
+[ 41%] Built target fwPortTest
+[35m[1mScanning dependencies of target qlacommand[0m
+[ 43%] [32mBuilding CXX object code/Amp1394/tests/CMakeFiles/qlacommand.dir/qlacommand.cpp.o[0m
+[ 45%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394/bin/qlacommand[0m
+[ 45%] Built target qlacommand
+[35m[1mScanning dependencies of target eth1394Test[0m
+[ 47%] [32mBuilding CXX object code/Amp1394/tests/CMakeFiles/eth1394Test.dir/mainEth1394.cpp.o[0m
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/mainEth1394.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/mainEth1394.cpp:910:19:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kwrite_block[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  910 |         quadlet_t [01;35m[Kwrite_block[m[K[5] = { 0x11111111, 0x22222222, 0x33333333, 0x44444444, 0x55555555 };
+      |                   [01;35m[K^~~~~~~~~~~[m[K
+[ 49%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394/bin/eth1394Test[0m
+[ 49%] Built target eth1394Test
+[35m[1mScanning dependencies of target instrument[0m
+[ 50%] [32mBuilding CXX object code/Amp1394/tests/CMakeFiles/instrument.dir/instrument.cpp.o[0m
+[ 52%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394/bin/instrument[0m
+[ 52%] Built target instrument
+[35m[1mScanning dependencies of target qlatest[0m
+[ 54%] [32mBuilding CXX object code/Amp1394/tests/CMakeFiles/qlatest.dir/qlatest.cpp.o[0m
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlatest.cpp:[m[K In function ‘[01m[Kbool TestEthernet(int, AmpIO&, BasePort*, std::ofstream&)[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlatest.cpp:716:23:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KcurLine[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  716 | bool TestEthernet([01;35m[Kint curLine[m[K, AmpIO &Board, BasePort *Port, std::ofstream &logFile)
+      |                   [01;35m[K~~~~^~~~~~~[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlatest.cpp:716:56:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KPort[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  716 | bool TestEthernet(int curLine, AmpIO &Board, [01;35m[KBasePort *Port[m[K, std::ofstream &logFile)
+      |                                              [01;35m[K~~~~~~~~~~^~~~[m[K
+[ 56%] [32mBuilding CXX object code/Amp1394/tests/CMakeFiles/qlatest.dir/Amp1394Console.cpp.o[0m
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:[m[K In static member function ‘[01m[Kstatic void Amp1394Console::Print(int, int, const char*, ...)[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:63:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint vwprintw(WINDOW*, const char*, __va_list_tag*)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   63 |     vwprintw(stdscr, cstr, args[01;35m[K)[m[K;
+      |                                [01;35m[K^[m[K
+In file included from [01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:29[m[K:
+[01m[K/usr/include/curses.h:825:28:[m[K [01;36m[Knote: [m[Kdeclared here
+  825 | extern NCURSES_EXPORT(int) [01;36m[Kvwprintw[m[K (WINDOW *, const char *,va_list) GCC_DEPRECATED(use vw_printw); /* implemented */
+      |                            [01;36m[K^~~~~~~~[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:63:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint vwprintw(WINDOW*, const char*, __va_list_tag*)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   63 |     vwprintw(stdscr, cstr, args[01;35m[K)[m[K;
+      |                                [01;35m[K^[m[K
+In file included from [01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:29[m[K:
+[01m[K/usr/include/curses.h:825:28:[m[K [01;36m[Knote: [m[Kdeclared here
+  825 | extern NCURSES_EXPORT(int) [01;36m[Kvwprintw[m[K (WINDOW *, const char *,va_list) GCC_DEPRECATED(use vw_printw); /* implemented */
+      |                            [01;36m[K^~~~~~~~[m[K
+[ 58%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394/bin/qlatest[0m
+[ 58%] Built target qlatest
+[35m[1mScanning dependencies of target block1394eth[0m
+[ 60%] [32mBuilding CXX object code/Amp1394/tests/CMakeFiles/block1394eth.dir/block1394eth.cpp.o[0m
+[ 62%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394/bin/block1394eth[0m
+[34m[1mGenerating quad1394eth[0m
+[ 62%] Built target block1394eth
+[35m[1mScanning dependencies of target enctest[0m
+[ 64%] [32mBuilding CXX object code/Amp1394/tests/CMakeFiles/enctest.dir/enctest.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394/bin/enctest[0m
+[ 66%] Built target enctest
+[35m[1mScanning dependencies of target pgm1394[0m
+[ 68%] [32mBuilding CXX object code/Amp1394/programmer/CMakeFiles/pgm1394.dir/pgm1394.cpp.o[0m
+[ 70%] [32mBuilding CXX object code/Amp1394/programmer/CMakeFiles/pgm1394.dir/mcsFile.cpp.o[0m
+[ 72%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394/bin/pgm1394[0m
+[ 72%] Built target pgm1394
+[ 74%] [34m[1mcisstDataGenerator for osaConfiguration1394[0m
+cisstDataGenerator: generating /home/hands/ros_ws/build/saw_robot_io_1394/include/sawRobotIO1394/osaConfiguration1394.h and /home/hands/ros_ws/build/saw_robot_io_1394/osaConfiguration1394_cdg.cpp from /home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/osaConfiguration1394.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/hands/ros_ws/build/saw_robot_io_1394/include/sawRobotIO1394/osaConfiguration1394.h"
+cisstDataGenerator: generating code file "/home/hands/ros_ws/build/saw_robot_io_1394/osaConfiguration1394_cdg.cpp"
+[35m[1mScanning dependencies of target sawRobotIO1394[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/sawRobotIO1394.dir/code/osaXML1394.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/sawRobotIO1394.dir/code/mtsRobot1394.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/sawRobotIO1394.dir/code/mtsDigitalInput1394.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/sawRobotIO1394.dir/code/mtsDigitalOutput1394.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/sawRobotIO1394.dir/code/mtsDallasChip1394.cpp.o[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/sawRobotIO1394.dir/code/mtsRobotIO1394.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/sawRobotIO1394.dir/osaConfiguration1394_cdg.cpp.o[0m
+[ 90%] [32m[1mLinking CXX shared library lib/libsawRobotIO1394.so[0m
+[ 90%] Built target sawRobotIO1394
+[35m[1mScanning dependencies of target sawRobotIO1394Qt_autogen[0m
+[ 92%] [34m[1mAutomatic MOC for target sawRobotIO1394Qt[0m
+[ 92%] Built target sawRobotIO1394Qt_autogen
+[35m[1mScanning dependencies of target sawRobotIO1394Qt[0m
+[ 94%] [32mBuilding CXX object code/Qt/CMakeFiles/sawRobotIO1394Qt.dir/sawRobotIO1394Qt_autogen/mocs_compilation.cpp.o[0m
+[ 96%] [32mBuilding CXX object code/Qt/CMakeFiles/sawRobotIO1394Qt.dir/mtsRobot1394QtWidget.cpp.o[0m
+[ 98%] [32mBuilding CXX object code/Qt/CMakeFiles/sawRobotIO1394Qt.dir/mtsRobotIO1394QtWidgetFactory.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library ../../lib/libsawRobotIO1394Qt.so[0m
+[100%] Built target sawRobotIO1394Qt

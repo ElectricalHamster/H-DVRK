@@ -1,0 +1,5 @@
+Symlinking /home/hands/ros_ws/devel/share/cwru_dvrk_kinematics/cmake/cwru_dvrk_kinematicsConfig-version.cmake
+Symlinking /home/hands/ros_ws/devel/share/cwru_dvrk_kinematics/cmake/cwru_dvrk_kinematicsConfig.cmake
+Symlinking /home/hands/ros_ws/devel/lib/libpsm_kinematics.so
+Symlinking /home/hands/ros_ws/devel/lib/libecm_kinematics.so
+Symlinking /home/hands/ros_ws/devel/lib/pkgconfig/cwru_dvrk_kinematics.pc

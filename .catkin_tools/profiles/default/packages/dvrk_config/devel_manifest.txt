@@ -1,0 +1,5 @@
+cisst-saw/sawIntuitiveResearchKit/share
+/home/hands/ros_ws/devel/.private/dvrk_config/cmake.lock /home/hands/ros_ws/devel/./cmake.lock
+/home/hands/ros_ws/devel/.private/dvrk_config/share/dvrk_config/cmake/dvrk_configConfig-version.cmake /home/hands/ros_ws/devel/share/dvrk_config/cmake/dvrk_configConfig-version.cmake
+/home/hands/ros_ws/devel/.private/dvrk_config/share/dvrk_config/cmake/dvrk_configConfig.cmake /home/hands/ros_ws/devel/share/dvrk_config/cmake/dvrk_configConfig.cmake
+/home/hands/ros_ws/devel/.private/dvrk_config/lib/pkgconfig/dvrk_config.pc /home/hands/ros_ws/devel/lib/pkgconfig/dvrk_config.pc

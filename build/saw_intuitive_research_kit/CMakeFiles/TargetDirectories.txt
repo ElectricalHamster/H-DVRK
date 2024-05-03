@@ -1,0 +1,15 @@
+/home/hands/ros_ws/build/saw_intuitive_research_kit/CMakeFiles/install/strip.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit/CMakeFiles/install/local.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit/CMakeFiles/install.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit/CMakeFiles/list_install_components.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit/CMakeFiles/rebuild_cache.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit/CMakeFiles/edit_cache.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit/CMakeFiles/sawIntuitiveResearchKit.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit/code/Qt/CMakeFiles/install/strip.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit/code/Qt/CMakeFiles/install.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit/code/Qt/CMakeFiles/list_install_components.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit/code/Qt/CMakeFiles/rebuild_cache.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit/code/Qt/CMakeFiles/edit_cache.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit/code/Qt/CMakeFiles/install/local.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit/code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit/code/Qt/CMakeFiles/sawIntuitiveResearchKitQt_autogen.dir

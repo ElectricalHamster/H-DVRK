@@ -1,0 +1,49 @@
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/lib/code/EthBasePort.cpp:[m[K In static member function ‘[01m[Kstatic void EthBasePort::PrintEthernetPacket(std::ostream&, const quadlet_t*, unsigned int)[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/lib/code/EthBasePort.cpp:399:96:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kmax_quads[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  399 | void EthBasePort::PrintEthernetPacket(std::ostream &out, const quadlet_t *packet, [01;35m[Kunsigned int max_quads[m[K)
+      |                                                                                   [01;35m[K~~~~~~~~~~~~~^~~~~~~~~[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/lib/code/EthBasePort.cpp:[m[K In static member function ‘[01m[Kstatic bool EthBasePort::checkCRC(const unsigned char*)[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/lib/code/EthBasePort.cpp:804:49:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kpacket[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  804 | bool EthBasePort::checkCRC([01;35m[Kconst unsigned char *packet[m[K)
+      |                            [01;35m[K~~~~~~~~~~~~~~~~~~~~~^~~~~~[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:[m[K In static member function ‘[01m[Kstatic void Amp1394Console::Print(int, int, const char*, ...)[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:63:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint vwprintw(WINDOW*, const char*, __va_list_tag*)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   63 |     vwprintw(stdscr, cstr, args[01;35m[K)[m[K;
+      |                                [01;35m[K^[m[K
+In file included from [01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:29[m[K:
+[01m[K/usr/include/curses.h:825:28:[m[K [01;36m[Knote: [m[Kdeclared here
+  825 | extern NCURSES_EXPORT(int) [01;36m[Kvwprintw[m[K (WINDOW *, const char *,va_list) GCC_DEPRECATED(use vw_printw); /* implemented */
+      |                            [01;36m[K^~~~~~~~[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:63:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint vwprintw(WINDOW*, const char*, __va_list_tag*)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   63 |     vwprintw(stdscr, cstr, args[01;35m[K)[m[K;
+      |                                [01;35m[K^[m[K
+In file included from [01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:29[m[K:
+[01m[K/usr/include/curses.h:825:28:[m[K [01;36m[Knote: [m[Kdeclared here
+  825 | extern NCURSES_EXPORT(int) [01;36m[Kvwprintw[m[K (WINDOW *, const char *,va_list) GCC_DEPRECATED(use vw_printw); /* implemented */
+      |                            [01;36m[K^~~~~~~~[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/mainEth1394.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/mainEth1394.cpp:910:19:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kwrite_block[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  910 |         quadlet_t [01;35m[Kwrite_block[m[K[5] = { 0x11111111, 0x22222222, 0x33333333, 0x44444444, 0x55555555 };
+      |                   [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlatest.cpp:[m[K In function ‘[01m[Kbool TestEthernet(int, AmpIO&, BasePort*, std::ofstream&)[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlatest.cpp:716:23:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KcurLine[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  716 | bool TestEthernet([01;35m[Kint curLine[m[K, AmpIO &Board, BasePort *Port, std::ofstream &logFile)
+      |                   [01;35m[K~~~~^~~~~~~[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlatest.cpp:716:56:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KPort[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  716 | bool TestEthernet(int curLine, AmpIO &Board, [01;35m[KBasePort *Port[m[K, std::ofstream &logFile)
+      |                                              [01;35m[K~~~~~~~~~~^~~~[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:[m[K In static member function ‘[01m[Kstatic void Amp1394Console::Print(int, int, const char*, ...)[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:63:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint vwprintw(WINDOW*, const char*, __va_list_tag*)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   63 |     vwprintw(stdscr, cstr, args[01;35m[K)[m[K;
+      |                                [01;35m[K^[m[K
+In file included from [01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:29[m[K:
+[01m[K/usr/include/curses.h:825:28:[m[K [01;36m[Knote: [m[Kdeclared here
+  825 | extern NCURSES_EXPORT(int) [01;36m[Kvwprintw[m[K (WINDOW *, const char *,va_list) GCC_DEPRECATED(use vw_printw); /* implemented */
+      |                            [01;36m[K^~~~~~~~[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:63:32:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint vwprintw(WINDOW*, const char*, __va_list_tag*)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   63 |     vwprintw(stdscr, cstr, args[01;35m[K)[m[K;
+      |                                [01;35m[K^[m[K
+In file included from [01m[K/home/hands/ros_ws/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/Amp1394Console.cpp:29[m[K:
+[01m[K/usr/include/curses.h:825:28:[m[K [01;36m[Knote: [m[Kdeclared here
+  825 | extern NCURSES_EXPORT(int) [01;36m[Kvwprintw[m[K (WINDOW *, const char *,va_list) GCC_DEPRECATED(use vw_printw); /* implemented */
+      |                            [01;36m[K^~~~~~~~[m[K

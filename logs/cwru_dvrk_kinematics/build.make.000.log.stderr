@@ -1,0 +1,51 @@
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:[m[K In member function ‘[01m[Kint cwru_dvrk_kinematics::psm::Inverse::ik_solve_refined(const Affine3d&)[m[K’:
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:243:33:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint cwru_dvrk_kinematics::psm::Inverse::ik_solve(const Affine3d&)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  243 |   if (ik_solve(desired_hand_pose[01;35m[K)[m[K > 0)
+      |                                 [01;35m[K^[m[K
+In file included from [01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:18[m[K:
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/include/cwru_dvrk_kinematics/psm_inv_kinematics.h:67:24:[m[K [01;36m[Knote: [m[Kdeclared here
+   67 |     [[deprecated]] int [01;36m[Kik_solve[m[K(Eigen::Affine3d const &desired_hand_pose);
+      |                        [01;36m[K^~~~~~~~[m[K
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:[m[K In member function ‘[01m[Kint cwru_dvrk_kinematics::psm::Inverse::ik_solve(const Affine3d&, std::string)[m[K’:
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:963:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  963 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:[m[K In member function ‘[01m[Kint cwru_dvrk_kinematics::psm::Inverse::ik_solve_refined(const Affine3d&, std::string)[m[K’:
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:977:33:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint cwru_dvrk_kinematics::psm::Inverse::ik_solve(const Affine3d&)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  977 |   if (ik_solve(desired_hand_pose[01;35m[K)[m[K > 0)
+      |                                 [01;35m[K^[m[K
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:689:5:[m[K [01;36m[Knote: [m[Kdeclared here
+  689 | int [01;36m[KInverse[m[K::ik_solve(Eigen::Affine3d const& desired_hand_pose)
+      |     [01;36m[K^~~~~~~[m[K
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:[m[K In member function ‘[01m[Kbool cwru_dvrk_kinematics::psm::Inverse::solve_jacobian_ik(const Affine3d&, Eigen::VectorXd&)[m[K’:
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:230:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+  230 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:[m[K In member function ‘[01m[Kint cwru_dvrk_kinematics::psm::Inverse::ik_solve_refined(const Affine3d&)[m[K’:
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:270:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+  270 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:[m[K In member function ‘[01m[Kbool cwru_dvrk_kinematics::psm::Inverse::solve_jacobian_frozen_ik(const Vector3d&, Eigen::VectorXd&)[m[K’:
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:406:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+  406 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:[m[K In member function ‘[01m[Kint cwru_dvrk_kinematics::psm::Inverse::ik_solve_frozen_refined(const Vector3d&)[m[K’:
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:493:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+  493 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:[m[K In member function ‘[01m[Kint cwru_dvrk_kinematics::psm::Inverse::ik_solve_refined(const Affine3d&, std::string)[m[K’:
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:999:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+  999 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:[m[K In member function ‘[01m[Kbool cwru_dvrk_kinematics::psm::Inverse::solve_jacobian_ik(const Affine3d&, Eigen::VectorXd&, std::string)[m[K’:
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:1197:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+ 1197 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:[m[K In member function ‘[01m[Kint cwru_dvrk_kinematics::psm::Inverse::ik_solve_frozen_refined(const Vector3d&, std::string)[m[K’:
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:1256:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+ 1256 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:[m[K In member function ‘[01m[Kbool cwru_dvrk_kinematics::psm::Inverse::solve_jacobian_frozen_ik(const Vector3d&, Eigen::VectorXd&, std::string)[m[K’:
+[01m[K/home/hands/ros_ws/src/cwru/cwru_dvrk_kinematics/src/psm_inv_kinematics.cpp:1390:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+ 1390 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K

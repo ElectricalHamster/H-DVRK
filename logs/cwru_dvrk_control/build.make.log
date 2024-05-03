@@ -1,0 +1,75 @@
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target control_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target control_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target control_msgs_generate_messages_eus
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target control_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target control_msgs_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target trajectory_msgs_generate_messages_py
+[  0%] Built target tf_generate_messages_lisp
+[  5%] [32m[1mLinking CXX shared library /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/libpsm_interface.so[0m
+[ 10%] [32m[1mLinking CXX shared library /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/libecm_interface.so[0m
+[ 15%] Built target psm_interface
+[ 20%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/cwru_dvrk_control/go_psm_cart[0m
+[ 25%] Built target ecm_interface
+[ 30%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/cwru_dvrk_control/go_psm[0m
+[ 35%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/cwru_dvrk_control/get_psm_cart[0m
+[ 40%] Built target go_psm_cart
+[ 45%] Built target go_psm
+[ 50%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/cwru_dvrk_control/get_psm[0m
+[ 55%] Built target get_psm_cart
+[ 60%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/cwru_dvrk_control/get_ecm[0m
+[ 65%] Built target get_psm
+[ 70%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/cwru_dvrk_control/go_ecm_cart[0m
+[ 75%] Built target get_ecm
+[ 80%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/cwru_dvrk_control/go_ecm[0m
+[ 85%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/cwru_dvrk_control/get_ecm_cart[0m
+[ 90%] Built target go_ecm_cart
+[ 95%] Built target go_ecm
+[100%] Built target get_ecm_cart

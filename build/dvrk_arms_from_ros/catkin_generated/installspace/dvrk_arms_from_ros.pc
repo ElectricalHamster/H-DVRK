@@ -1,0 +1,8 @@
+prefix=/home/hands/ros_ws/install
+
+Name: dvrk_arms_from_ros
+Description: Description of dvrk_arms_from_ros
+Version: 2.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ldvrk_arm_from_ros
+Requires: cisst_ros_crtk roscpp roslib

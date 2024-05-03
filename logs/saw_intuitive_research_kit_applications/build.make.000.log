@@ -1,0 +1,16 @@
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitQtArm[0m
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitQtConsoleJSON[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKitQtConsoleJSON.dir/mainQtConsoleJSON.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKitQtArm.dir/mainQtArm.cpp.o[0m
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitQtPID[0m
+[ 37%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_intuitive_research_kit_applications/bin/sawIntuitiveResearchKitQtConsoleJSON[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKitQtPID.dir/mainQtPID.cpp.o[0m
+[ 50%] Built target sawIntuitiveResearchKitQtConsoleJSON
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitGripperCalibration[0m
+[ 62%] [32mBuilding CXX object gripper-calibration/CMakeFiles/sawIntuitiveResearchKitGripperCalibration.dir/GripperCalibration.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_intuitive_research_kit_applications/bin/sawIntuitiveResearchKitGripperCalibration[0m
+[ 87%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_intuitive_research_kit_applications/bin/sawIntuitiveResearchKitQtArm[0m
+[ 87%] Built target sawIntuitiveResearchKitGripperCalibration
+[ 87%] Built target sawIntuitiveResearchKitQtArm
+[100%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_intuitive_research_kit_applications/bin/sawIntuitiveResearchKitQtPID[0m
+[100%] Built target sawIntuitiveResearchKitQtPID

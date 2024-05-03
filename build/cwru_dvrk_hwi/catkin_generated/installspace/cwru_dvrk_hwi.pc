@@ -1,0 +1,8 @@
+prefix=/home/hands/ros_ws/install
+
+Name: cwru_dvrk_hwi
+Description: Description of cwru_dvrk_hwi
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: cmake_modules roscpp std_msgs sensor_msgs crtk_msgs control_msgs controller_manager hardware_interface cwru_dvrk_kinematics

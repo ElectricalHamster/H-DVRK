@@ -1,0 +1,110 @@
+Determining if size_t is a native type passed with the following output:
+Change Dir: /home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6f049/fast && /usr/bin/make -f CMakeFiles/cmTC_6f049.dir/build.make CMakeFiles/cmTC_6f049.dir/build
+make[1]: Entering directory '/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_6f049.dir/test_size_t_int.cpp.o
+/usr/bin/c++    -fPIC -Wextra -Wall    -o CMakeFiles/cmTC_6f049.dir/test_size_t_int.cpp.o -c /home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp/test_size_t_int.cpp
+/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp/test_size_t_int.cpp: In function ‘char method(unsigned int)’:
+/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp/test_size_t_int.cpp:2:36: warning: unused parameter ‘p’ [-Wunused-parameter]
+    2 |           char method(unsigned int p) {
+      |                       ~~~~~~~~~~~~~^
+/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp/test_size_t_int.cpp: In function ‘char method(long long unsigned int)’:
+/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp/test_size_t_int.cpp:5:46: warning: unused parameter ‘p’ [-Wunused-parameter]
+    5 |           char method(unsigned long long int p) {
+      |                       ~~~~~~~~~~~~~~~~~~~~~~~^
+/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp/test_size_t_int.cpp: In function ‘char method(size_t)’:
+/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp/test_size_t_int.cpp:8:30: warning: unused parameter ‘p’ [-Wunused-parameter]
+    8 |           char method(size_t p) {
+      |                       ~~~~~~~^
+Linking CXX executable cmTC_6f049
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6f049.dir/link.txt --verbose=1
+/usr/bin/c++   -fPIC -Wextra -Wall     -rdynamic CMakeFiles/cmTC_6f049.dir/test_size_t_int.cpp.o  -o cmTC_6f049 
+make[1]: Leaving directory '/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp'
+
+
+Change Dir: /home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_89e49/fast && /usr/bin/make -f CMakeFiles/cmTC_89e49.dir/build.make CMakeFiles/cmTC_89e49.dir/build
+make[1]: Entering directory '/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_89e49.dir/test_size_t_long.cpp.o
+/usr/bin/c++    -fPIC -Wextra -Wall    -o CMakeFiles/cmTC_89e49.dir/test_size_t_long.cpp.o -c /home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp/test_size_t_long.cpp
+/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp/test_size_t_long.cpp: In function ‘char method(long unsigned int)’:
+/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp/test_size_t_long.cpp:2:41: warning: unused parameter ‘p’ [-Wunused-parameter]
+    2 |           char method(unsigned long int p) {
+      |                       ~~~~~~~~~~~~~~~~~~^
+/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp/test_size_t_long.cpp: At global scope:
+/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp/test_size_t_long.cpp:5:16: error: redefinition of ‘char method(size_t)’
+    5 |           char method(size_t p) {
+      |                ^~~~~~
+/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp/test_size_t_long.cpp:2:16: note: ‘char method(long unsigned int)’ previously defined here
+    2 |           char method(unsigned long int p) {
+      |                ^~~~~~
+/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp/test_size_t_long.cpp: In function ‘char method(size_t)’:
+/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp/test_size_t_long.cpp:5:30: warning: unused parameter ‘p’ [-Wunused-parameter]
+    5 |           char method(size_t p) {
+      |                       ~~~~~~~^
+make[1]: *** [CMakeFiles/cmTC_89e49.dir/build.make:66: CMakeFiles/cmTC_89e49.dir/test_size_t_long.cpp.o] Error 1
+make[1]: Leaving directory '/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_89e49/fast] Error 2
+
+
+
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: /home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b4b3a/fast && /usr/bin/make -f CMakeFiles/cmTC_b4b3a.dir/build.make CMakeFiles/cmTC_b4b3a.dir/build
+make[1]: Entering directory '/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b4b3a.dir/src.c.o
+/usr/bin/cc   -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_b4b3a.dir/src.c.o   -c /home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_b4b3a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b4b3a.dir/link.txt --verbose=1
+/usr/bin/cc  -DCMAKE_HAVE_LIBC_PTHREAD    -rdynamic CMakeFiles/cmTC_b4b3a.dir/src.c.o  -o cmTC_b4b3a 
+/usr/bin/ld: CMakeFiles/cmTC_b4b3a.dir/src.c.o: in function `main':
+src.c:(.text+0x46): undefined reference to `pthread_create'
+/usr/bin/ld: src.c:(.text+0x52): undefined reference to `pthread_detach'
+/usr/bin/ld: src.c:(.text+0x63): undefined reference to `pthread_join'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_b4b3a.dir/build.make:87: cmTC_b4b3a] Error 1
+make[1]: Leaving directory '/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_b4b3a/fast] Error 2
+
+
+Source file was:
+#include <pthread.h>
+
+void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a065d/fast && /usr/bin/make -f CMakeFiles/cmTC_a065d.dir/build.make CMakeFiles/cmTC_a065d.dir/build
+make[1]: Entering directory '/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a065d.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_a065d.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
+Linking C executable cmTC_a065d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a065d.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_a065d.dir/CheckFunctionExists.c.o  -o cmTC_a065d  -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_a065d.dir/build.make:87: cmTC_a065d] Error 1
+make[1]: Leaving directory '/home/hands/ros_ws/build/cisst/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_a065d/fast] Error 2
+
+
+

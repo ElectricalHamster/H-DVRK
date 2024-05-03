@@ -1,0 +1,28 @@
+<launch>
+	<arg name="PORT_L" default="/dev/video0"/>
+	<arg name="PORT_R" default="/dev/video2"/>
+	
+	<node name="left" pkg="usb_cam" type="usb_cam_node" output="screen" >
+		<param name="video_device" value="$(arg PORT_L)" />
+		<param name="image_width" value="800" />
+		<param name="image_height" value="600" />
+		<param name="pixel_format" value="yuyv" />
+		<param name="camera_frame_id" value="teleop_cam_l" />
+		<param name="io_method" value="mmap"/>
+		<param name="framerate" value="30" />
+		<param name="camera_name" value="endo_cam_l" />
+		<param name="camera_info_url" value="package://hand_follower/cal/left.yml"/>
+	</node>
+	
+	<node name="right" pkg="usb_cam" type="usb_cam_node" output="screen" >
+		<param name="video_device" value="$(arg PORT_R)" />
+		<param name="image_width" value="800" />
+		<param name="image_height" value="600" />
+		<param name="pixel_format" value="yuyv" />
+		<param name="camera_frame_id" value="teleop_cam_r" />
+		<param name="io_method" value="mmap"/>
+		<param name="framerate" value="30" />
+		<param name="camera_name" value="endo_cam_r" />
+		<param name="camera_info_url" value="package://hand_follower/cal/right.yml"/>
+	</node>
+</launch>

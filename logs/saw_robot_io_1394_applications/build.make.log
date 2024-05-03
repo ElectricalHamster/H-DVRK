@@ -1,0 +1,7 @@
+[ 15%] Built target sawRobotIO1394QtConsole
+[ 30%] Built target sawRobotIO1394CurrentCalibration
+[ 38%] [34m[1mAutomatic MOC for target sawRobotIO1394QtDataPlot[0m
+[ 38%] Built target sawRobotIO1394QtDataPlot_autogen
+[ 53%] Built target sawRobotIO1394DataCollection
+[ 69%] Built target sawRobotIO1394XMLtoJSON
+[100%] Built target sawRobotIO1394QtDataPlot

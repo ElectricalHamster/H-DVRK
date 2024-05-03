@@ -1,0 +1,4 @@
+Symlinking /home/hands/ros_ws/devel/share/sawIntuitiveResearchKit/cmake/sawIntuitiveResearchKitConfigVersion.cmake
+Symlinking /home/hands/ros_ws/devel/share/sawIntuitiveResearchKit/cmake/sawIntuitiveResearchKitConfig.cmake
+Symlinking /home/hands/ros_ws/devel/lib/libsawIntuitiveResearchKit.so
+Symlinking /home/hands/ros_ws/devel/lib/libsawIntuitiveResearchKitQt.so

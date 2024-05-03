@@ -1,0 +1,5 @@
+Symlinking /home/hands/ros_ws/devel/./cisstvars.sh
+Symlinking /home/hands/ros_ws/devel/./cisstvars.csh
+Symlinking /home/hands/ros_ws/devel/cmake/cisst-config.cmake
+Symlinking /home/hands/ros_ws/devel/cmake/cisst-config-version.cmake
+Symlinking /home/hands/ros_ws/devel/bin/cisstDataGenerator

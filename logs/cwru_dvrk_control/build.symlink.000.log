@@ -1,0 +1,13 @@
+Symlinking /home/hands/ros_ws/devel/share/cwru_dvrk_control/cmake/cwru_dvrk_controlConfig.cmake
+Symlinking /home/hands/ros_ws/devel/share/cwru_dvrk_control/cmake/cwru_dvrk_controlConfig-version.cmake
+Symlinking /home/hands/ros_ws/devel/lib/libecm_interface.so
+Symlinking /home/hands/ros_ws/devel/lib/libpsm_interface.so
+Symlinking /home/hands/ros_ws/devel/lib/pkgconfig/cwru_dvrk_control.pc
+Symlinking /home/hands/ros_ws/devel/lib/cwru_dvrk_control/go_ecm
+Symlinking /home/hands/ros_ws/devel/lib/cwru_dvrk_control/go_psm_cart
+Symlinking /home/hands/ros_ws/devel/lib/cwru_dvrk_control/get_psm_cart
+Symlinking /home/hands/ros_ws/devel/lib/cwru_dvrk_control/get_ecm_cart
+Symlinking /home/hands/ros_ws/devel/lib/cwru_dvrk_control/get_psm
+Symlinking /home/hands/ros_ws/devel/lib/cwru_dvrk_control/get_ecm
+Symlinking /home/hands/ros_ws/devel/lib/cwru_dvrk_control/go_psm
+Symlinking /home/hands/ros_ws/devel/lib/cwru_dvrk_control/go_ecm_cart

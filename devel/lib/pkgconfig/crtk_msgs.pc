@@ -1,0 +1,1 @@
+/home/hands/ros_ws/devel/.private/crtk_msgs/lib/pkgconfig/crtk_msgs.pc

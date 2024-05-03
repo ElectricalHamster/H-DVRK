@@ -1,0 +1,6 @@
+cisst-saw/sawRobotIO1394/applications
+/home/hands/ros_ws/devel/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394QtConsole /home/hands/ros_ws/devel/bin/sawRobotIO1394QtConsole
+/home/hands/ros_ws/devel/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394QtDataPlot /home/hands/ros_ws/devel/bin/sawRobotIO1394QtDataPlot
+/home/hands/ros_ws/devel/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394CurrentCalibration /home/hands/ros_ws/devel/bin/sawRobotIO1394CurrentCalibration
+/home/hands/ros_ws/devel/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394DataCollection /home/hands/ros_ws/devel/bin/sawRobotIO1394DataCollection
+/home/hands/ros_ws/devel/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394XMLtoJSON /home/hands/ros_ws/devel/bin/sawRobotIO1394XMLtoJSON

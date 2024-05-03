@@ -1,0 +1,18 @@
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsSocketClientPSM.cpp:[m[K In member function ‘[01m[Kvoid mtsSocketClientPSM::ReceivePSMStateData()[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsSocketClientPSM.cpp:141:23:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Ksize_t[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} and ‘[01m[Kint[m[K’ [[01;35m[K-Wsign-compare[m[K]
+  141 |         if ([01;35m[KbytesRead != State.Data.Header.Size[m[K){
+      |             [01;35m[K~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/robManipulatorMTM.cpp:[m[K In member function ‘[01m[Kdouble robManipulatorMTM::ComputeGimbalIK(vctDynamicVector<double>&, const vctFrame4x4<double, true>&) const[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/robManipulatorMTM.cpp:156:12:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Kq3[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+  156 |     double [01;35m[Kq3[m[K, q4, q5, q6;
+      |            [01;35m[K^~[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/robManipulatorMTM.cpp:254:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  254 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/robManipulatorMTM.cpp:[m[K In member function ‘[01m[Kdouble robManipulatorMTM::FindOptimalPlatformAngle(const vctDynamicVector<double>&, const vctFrame4x4<double, true>&) const[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/robManipulatorMTM.cpp:422:16:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Ke[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+  422 |         double [01;35m[Ke[m[K;
+      |                [01;35m[K^[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/robManipulatorMTM.cpp:450:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+  450 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K

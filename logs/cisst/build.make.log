@@ -1,0 +1,45 @@
+[  0%] [34m[1mGenerating /home/hands/ros_ws/build/cisst/include/cisstBuildType.h from /home/hands/ros_ws/src/cisst-saw/cisst/cisstBuildType.h.in[0m
+-- Build type is: 
+Build suffix is: .
+[  0%] Built target cisstBuildType
+[  1%] [34m[1mGenerating /home/hands/ros_ws/build/cisst/include/cisstRevision.h from /home/hands/ros_ws/src/cisst-saw/cisst/cisstRevision.h.in[0m
+-- Found Git revision: 1.1.0
+[  1%] Built target cisstRevision
+[  3%] Built target cisstReflexxesTypeIIExternal
+[ 10%] Built target cisstCommon
+[ 16%] Built target cisstDataGenerator
+[ 16%] Built target cisstCommonPython_swig_compilation
+[ 17%] Built target cisstCommonQt
+[ 18%] Built target cisstCommonXML
+[ 23%] Built target cisstVector
+[ 23%] Built target _cisstCommonPython
+[ 27%] Built target cisstOSAbstraction
+[ 27%] Built target cisstVectorPython_swig_compilation
+[ 28%] Built target cisstVectorFLTK
+[ 29%] [34m[1mAutomatic MOC for target cisstVectorQt[0m
+[ 30%] Built target cisstOSAbstractionPython_swig_compilation
+[ 30%] Built target cisstVectorQt_autogen
+[ 35%] Built target cisstNumerical
+[ 36%] Built target _cisstVectorPython
+[ 55%] Built target cisstMultiTask
+[ 58%] Built target cisstVectorQt
+[ 58%] Built target _cisstOSAbstractionPython
+[ 59%] Built target cisstNumericalPython_swig_compilation
+[ 59%] Built target cisstMultiTaskPython_swig_compilation
+[ 60%] [34m[1mAutomatic MOC for target cisstMultiTaskQt[0m
+[ 72%] Built target cisstParameterTypes
+[ 72%] Built target cisstMultiTaskQt_autogen
+[ 77%] Built target cisstRobot
+[ 77%] Built target _cisstMultiTaskPython
+[ 78%] Built target _cisstNumericalPython
+[ 78%] Built target cisstParameterTypesPython_swig_compilation
+[ 89%] Built target cisstMesh
+[ 89%] [34m[1mAutomatic MOC for target cisstParameterTypesQt[0m
+[ 94%] Built target cisstMultiTaskQt
+[ 95%] Built target cisstRobotPython_swig_compilation
+[ 95%] Built target cisstMeshPython_swig_compilation
+[ 95%] Built target cisstParameterTypesQt_autogen
+[ 95%] Built target _cisstRobotPython
+[ 96%] Built target _cisstParameterTypesPython
+[ 97%] Built target _cisstMeshPython
+[100%] Built target cisstParameterTypesQt

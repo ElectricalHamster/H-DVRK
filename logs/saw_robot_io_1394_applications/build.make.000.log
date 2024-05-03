@@ -1,0 +1,25 @@
+[35m[1mScanning dependencies of target sawRobotIO1394QtConsole[0m
+[  7%] [32mBuilding CXX object Qt/CMakeFiles/sawRobotIO1394QtConsole.dir/mainQt.cpp.o[0m
+[ 15%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394QtConsole[0m
+[ 15%] Built target sawRobotIO1394QtConsole
+[35m[1mScanning dependencies of target sawRobotIO1394CurrentCalibration[0m
+[ 23%] [32mBuilding CXX object current-calibration/CMakeFiles/sawRobotIO1394CurrentCalibration.dir/main.cpp.o[0m
+[ 30%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394CurrentCalibration[0m
+[ 30%] Built target sawRobotIO1394CurrentCalibration
+[35m[1mScanning dependencies of target sawRobotIO1394QtDataPlot_autogen[0m
+[ 38%] [34m[1mAutomatic MOC for target sawRobotIO1394QtDataPlot[0m
+[ 38%] Built target sawRobotIO1394QtDataPlot_autogen
+[35m[1mScanning dependencies of target sawRobotIO1394DataCollection[0m
+[ 46%] [32mBuilding CXX object data-collection/CMakeFiles/sawRobotIO1394DataCollection.dir/main.cpp.o[0m
+[ 53%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394DataCollection[0m
+[ 53%] Built target sawRobotIO1394DataCollection
+[35m[1mScanning dependencies of target sawRobotIO1394XMLtoJSON[0m
+[ 61%] [32mBuilding CXX object xml-to-json/CMakeFiles/sawRobotIO1394XMLtoJSON.dir/main.cpp.o[0m
+[ 69%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394XMLtoJSON[0m
+[ 69%] Built target sawRobotIO1394XMLtoJSON
+[35m[1mScanning dependencies of target sawRobotIO1394QtDataPlot[0m
+[ 76%] [32mBuilding CXX object data-plot/CMakeFiles/sawRobotIO1394QtDataPlot.dir/sawRobotIO1394QtDataPlot_autogen/mocs_compilation.cpp.o[0m
+[ 84%] [32mBuilding CXX object data-plot/CMakeFiles/sawRobotIO1394QtDataPlot.dir/main.cpp.o[0m
+[ 92%] [32mBuilding CXX object data-plot/CMakeFiles/sawRobotIO1394QtDataPlot.dir/plotObject.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394QtDataPlot[0m
+[100%] Built target sawRobotIO1394QtDataPlot

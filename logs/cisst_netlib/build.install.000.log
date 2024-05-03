@@ -1,0 +1,20 @@
+[ 17%] Built target cisstNetlib_Fortran
+[ 71%] Built target cisstNetlib_hanson_haskell
+[ 91%] Built target cisstNetlib_lawson_hanson
+[100%] Built target cisstNetlib
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/hands/ros_ws/devel/include/cisstNetlib.h
+-- Installing: /home/hands/ros_ws/devel/include/cisstNetlib/cisstNetlib-types.h
+-- Installing: /home/hands/ros_ws/devel/include/cisstNetlib/cisstNetlib-lapack.h
+-- Installing: /home/hands/ros_ws/devel/include/cisstNetlib/cisstNetlib-hanson-haskell.h
+-- Installing: /home/hands/ros_ws/devel/include/cisstNetlib/cisstNetlib-lawson-hanson.h
+-- Installing: /home/hands/ros_ws/devel/lib/libcisstNetlib_lapack.a
+-- Installing: /home/hands/ros_ws/devel/lib/libcisstNetlib_blas.a
+-- Installing: /home/hands/ros_ws/devel/lib/libcisstNetlib_gfortran.so
+-- Installing: /home/hands/ros_ws/devel/lib/libcisstNetlib_gcc.a
+-- Installing: /home/hands/ros_ws/devel/lib/libcisstNetlib_quadmath.a
+-- Installing: /home/hands/ros_ws/devel/cmake/CisstNetlibConfig.cmake
+-- Installing: /home/hands/ros_ws/devel/lib/libcisstNetlib_hanson_haskell.a
+-- Installing: /home/hands/ros_ws/devel/lib/libcisstNetlib_lawson_hanson.a
+-- Installing: /home/hands/ros_ws/devel/lib/libcisstNetlib.a

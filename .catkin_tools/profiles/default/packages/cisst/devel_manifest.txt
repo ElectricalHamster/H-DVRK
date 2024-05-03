@@ -1,0 +1,6 @@
+cisst-saw/cisst
+/home/hands/ros_ws/devel/.private/cisst/cisstvars.sh /home/hands/ros_ws/devel/./cisstvars.sh
+/home/hands/ros_ws/devel/.private/cisst/cisstvars.csh /home/hands/ros_ws/devel/./cisstvars.csh
+/home/hands/ros_ws/devel/.private/cisst/cmake/cisst-config.cmake /home/hands/ros_ws/devel/cmake/cisst-config.cmake
+/home/hands/ros_ws/devel/.private/cisst/cmake/cisst-config-version.cmake /home/hands/ros_ws/devel/cmake/cisst-config-version.cmake
+/home/hands/ros_ws/devel/.private/cisst/bin/cisstDataGenerator /home/hands/ros_ws/devel/bin/cisstDataGenerator

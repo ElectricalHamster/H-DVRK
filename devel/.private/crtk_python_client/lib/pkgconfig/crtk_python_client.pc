@@ -1,0 +1,8 @@
+prefix=/home/hands/ros_ws/devel/.private/crtk_python_client
+
+Name: crtk_python_client
+Description: Description of crtk_python_client
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy

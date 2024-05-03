@@ -1,0 +1,11 @@
+[01m[K/home/hands/ros_ws/src/cisst-saw/cisst-ros/cisst_ros_crtk/src/mts_ros_crtk_bridge.cpp:[m[K In member function ‘[01m[Kvoid mts_ros_crtk_bridge::add_connection_event_handler(const mtsDescriptionConnection&)[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/cisst-ros/cisst_ros_crtk/src/mts_ros_crtk_bridge.cpp:548:89:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[K_connection[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  548 | void mts_ros_crtk_bridge::add_connection_event_handler([01;35m[Kconst mtsDescriptionConnection & _connection[m[K)
+      |                                                        [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~[m[K
+In file included from [01m[K/home/hands/ros_ws/src/cisst-saw/cisst-ros/cisst_ros_crtk/src/mtsCISSTToROS.cpp:20[m[K:
+/home/hands/ros_ws/src/cisst-saw/cisst-ros/cisst_ros_bridge/include/cisst_ros_bridge/mtsCISSTToROS.h: In instantiation of ‘[01m[Kbool mtsCISSTToROSHeader(const _cisstType&, _rosType&, const string&) [with _cisstType = prmOperatingState; _rosType = crtk_msgs::operating_state_<std::allocator<void> >; std::string = std::__cxx11::basic_string<char>][m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/cisst-ros/cisst_ros_crtk/src/mtsCISSTToROS.cpp:27:28:[m[K   required from ‘[01m[Kbool mtsCISSTToROSOperatingState(const prmOperatingState&, _ros_operating_state&, const string&) [with _ros_operating_state = crtk_msgs::operating_state_<std::allocator<void> >; std::string = std::__cxx11::basic_string<char>][m[K’
+[01m[K/home/hands/ros_ws/src/cisst-saw/cisst-ros/cisst_ros_crtk/src/mtsCISSTToROS.cpp:44:69:[m[K   required from here
+[01m[K/home/hands/ros_ws/src/cisst-saw/cisst-ros/cisst_ros_bridge/include/cisst_ros_bridge/mtsCISSTToROS.h:121:7:[m[K [01;35m[Kwarning: [m[Kcatching polymorphic type ‘[01m[Kclass std::exception[m[K’ by value [[01;35m[K-Wcatch-value=[m[K]
+  121 |     } [01;35m[Kcatch[m[K (std::exception e) {
+      |       [01;35m[K^~~~~[m[K

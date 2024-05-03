@@ -1,0 +1,5 @@
+Symlinking /home/hands/ros_ws/devel/share/dvrk_robot/cmake/dvrk_robotConfig.cmake
+Symlinking /home/hands/ros_ws/devel/share/dvrk_robot/cmake/dvrk_robotConfig-version.cmake
+Symlinking /home/hands/ros_ws/devel/lib/libdvrk_utilities.so
+Symlinking /home/hands/ros_ws/devel/lib/dvrk_robot/dvrk_console_json
+Symlinking /home/hands/ros_ws/devel/lib/pkgconfig/dvrk_robot.pc

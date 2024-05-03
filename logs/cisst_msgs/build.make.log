@@ -1,0 +1,27 @@
+[  0%] Built target _cisst_msgs_generate_messages_check_deps_QueryForwardKinematics
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _cisst_msgs_generate_messages_check_deps_mtsIntervalStatistics
+[  0%] Built target _cisst_msgs_generate_messages_check_deps_vctDoubleVec
+[  0%] Built target _cisst_msgs_generate_messages_check_deps_prmCartesianImpedanceGains
+[  0%] Built target _cisst_msgs_generate_messages_check_deps_BoolStamped
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target _cisst_msgs_generate_messages_check_deps_StringStamped
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[ 18%] Built target cisst_msgs_generate_messages_cpp
+[ 42%] Built target cisst_msgs_generate_messages_py
+[ 60%] Built target cisst_msgs_generate_messages_lisp
+[ 81%] Built target cisst_msgs_generate_messages_eus
+[100%] Built target cisst_msgs_generate_messages_nodejs
+[100%] Built target cisst_msgs_generate_messages

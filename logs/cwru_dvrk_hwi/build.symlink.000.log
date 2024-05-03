@@ -1,0 +1,6 @@
+Symlinking /home/hands/ros_ws/devel/share/cwru_dvrk_hwi/cmake/cwru_dvrk_hwiConfig-version.cmake
+Symlinking /home/hands/ros_ws/devel/share/cwru_dvrk_hwi/cmake/cwru_dvrk_hwiConfig.cmake
+Symlinking /home/hands/ros_ws/devel/lib/cwru_dvrk_hwi/psm_hwi
+Symlinking /home/hands/ros_ws/devel/lib/cwru_dvrk_hwi/psm_traj_repeater
+Symlinking /home/hands/ros_ws/devel/lib/cwru_dvrk_hwi/ecm_hwi
+Symlinking /home/hands/ros_ws/devel/lib/pkgconfig/cwru_dvrk_hwi.pc

@@ -1,0 +1,86 @@
+[  2%] [34m[1mcisstDataGenerator for socketMessages[0m
+cisstDataGenerator: generating /home/hands/ros_ws/build/saw_intuitive_research_kit/include/sawIntuitiveResearchKit/socketMessages.h and /home/hands/ros_ws/build/saw_intuitive_research_kit/socketMessages_cdg.cpp from /home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/socketMessages.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/hands/ros_ws/build/saw_intuitive_research_kit/include/sawIntuitiveResearchKit/socketMessages.h"
+cisstDataGenerator: generating code file "/home/hands/ros_ws/build/saw_intuitive_research_kit/socketMessages_cdg.cpp"
+[  4%] [34m[1mcisstDataGenerator for mtsIntuitiveResearchKitArmTypes[0m
+cisstDataGenerator: generating /home/hands/ros_ws/build/saw_intuitive_research_kit/include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitArmTypes.h and /home/hands/ros_ws/build/saw_intuitive_research_kit/mtsIntuitiveResearchKitArmTypes_cdg.cpp from /home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitArmTypes.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/hands/ros_ws/build/saw_intuitive_research_kit/include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitArmTypes.h"
+cisstDataGenerator: generating code file "/home/hands/ros_ws/build/saw_intuitive_research_kit/mtsIntuitiveResearchKitArmTypes_cdg.cpp"
+[  6%] [34m[1mcisstDataGenerator for mtsIntuitiveResearchKitToolTypes[0m
+cisstDataGenerator: generating /home/hands/ros_ws/build/saw_intuitive_research_kit/include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitToolTypes.h and /home/hands/ros_ws/build/saw_intuitive_research_kit/mtsIntuitiveResearchKitToolTypes_cdg.cpp from /home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitToolTypes.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/hands/ros_ws/build/saw_intuitive_research_kit/include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitToolTypes.h"
+cisstDataGenerator: generating code file "/home/hands/ros_ws/build/saw_intuitive_research_kit/mtsIntuitiveResearchKitToolTypes_cdg.cpp"
+[  8%] [34m[1mcisstDataGenerator for mtsIntuitiveResearchKitEndoscopeTypes[0m
+cisstDataGenerator: generating /home/hands/ros_ws/build/saw_intuitive_research_kit/include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitEndoscopeTypes.h and /home/hands/ros_ws/build/saw_intuitive_research_kit/mtsIntuitiveResearchKitEndoscopeTypes_cdg.cpp from /home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitEndoscopeTypes.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/hands/ros_ws/build/saw_intuitive_research_kit/include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitEndoscopeTypes.h"
+cisstDataGenerator: generating code file "/home/hands/ros_ws/build/saw_intuitive_research_kit/mtsIntuitiveResearchKitEndoscopeTypes_cdg.cpp"
+[35m[1mScanning dependencies of target sawIntuitiveResearchKit[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsStateMachine.cpp.o[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitArm.cpp.o[0m
+[ 15%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitMTM.cpp.o[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitPSM.cpp.o[0m
+[ 19%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitECM.cpp.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitSUJ.cpp.o[0m
+[ 23%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsTeleOperationPSM.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsTeleOperationECM.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitConsole.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsDaVinciHeadSensor.cpp.o[0m
+[ 32%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsDaVinciEndoscopeFocus.cpp.o[0m
+[ 34%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitUDPStreamer.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsSocketBasePSM.cpp.o[0m
+[ 39%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsSocketClientPSM.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsSocketServerPSM.cpp.o[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsToolList.cpp.o[0m
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsSocketClientPSM.cpp:[m[K In member function ‘[01m[Kvoid mtsSocketClientPSM::ReceivePSMStateData()[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsSocketClientPSM.cpp:141:23:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Ksize_t[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} and ‘[01m[Kint[m[K’ [[01;35m[K-Wsign-compare[m[K]
+  141 |         if ([01;35m[KbytesRead != State.Data.Header.Size[m[K){
+      |             [01;35m[K~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[ 45%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/robManipulatorECM.cpp.o[0m
+[ 47%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/robManipulatorMTM.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/robManipulatorPSMSnake.cpp.o[0m
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/robManipulatorMTM.cpp:[m[K In member function ‘[01m[Kdouble robManipulatorMTM::ComputeGimbalIK(vctDynamicVector<double>&, const vctFrame4x4<double, true>&) const[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/robManipulatorMTM.cpp:156:12:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Kq3[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+  156 |     double [01;35m[Kq3[m[K, q4, q5, q6;
+      |            [01;35m[K^~[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/robManipulatorMTM.cpp:254:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  254 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/robManipulatorMTM.cpp:[m[K In member function ‘[01m[Kdouble robManipulatorMTM::FindOptimalPlatformAngle(const vctDynamicVector<double>&, const vctFrame4x4<double, true>&) const[m[K’:
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/robManipulatorMTM.cpp:422:16:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Ke[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+  422 |         double [01;35m[Ke[m[K;
+      |                [01;35m[K^[m[K
+[01m[K/home/hands/ros_ws/src/cisst-saw/sawIntuitiveResearchKit/components/code/robManipulatorMTM.cpp:450:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+  450 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[ 52%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsPSMCompensation.cpp.o[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/robGravityCompensationMTM.cpp.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/mtsIntuitiveResearchKitArmTypes_cdg.cpp.o[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/mtsIntuitiveResearchKitToolTypes_cdg.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/mtsIntuitiveResearchKitEndoscopeTypes_cdg.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/socketMessages_cdg.cpp.o[0m
+[ 65%] [32m[1mLinking CXX shared library /home/hands/ros_ws/devel/.private/saw_intuitive_research_kit/lib/libsawIntuitiveResearchKit.so[0m
+[ 65%] Built target sawIntuitiveResearchKit
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitQt_autogen[0m
+[ 67%] [34m[1mAutomatic MOC for target sawIntuitiveResearchKitQt[0m
+[ 67%] Built target sawIntuitiveResearchKitQt_autogen
+[ 69%] [34m[1mGenerating qrc_logo.cpp[0m
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitQt[0m
+[ 71%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/sawIntuitiveResearchKitQt_autogen/mocs_compilation.cpp.o[0m
+[ 73%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsIntuitiveResearchKitConsoleQt.cpp.o[0m
+[ 76%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsIntuitiveResearchKitConsoleQtWidget.cpp.o[0m
+[ 78%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsTeleOperationPSMQtWidget.cpp.o[0m
+[ 80%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsTeleOperationECMQtWidget.cpp.o[0m
+[ 82%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsIntuitiveResearchKitArmQtWidget.cpp.o[0m
+[ 84%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsIntuitiveResearchKitECMQtWidget.cpp.o[0m
+[ 86%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsIntuitiveResearchKitMTMQtWidget.cpp.o[0m
+[ 89%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsIntuitiveResearchKitPSMQtWidget.cpp.o[0m
+[ 91%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsIntuitiveResearchKitSUJQtWidget.cpp.o[0m
+[ 93%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsDaVinciEndoscopeFocusQtWidget.cpp.o[0m
+[ 95%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsSocketBaseQtWidget.cpp.o[0m
+[ 97%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/qrc_logo.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/hands/ros_ws/devel/.private/saw_intuitive_research_kit/lib/libsawIntuitiveResearchKitQt.so[0m
+[100%] Built target sawIntuitiveResearchKitQt

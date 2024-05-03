@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+	<name>hand_follower</name>
+	<version>1.0.0</version>
+	<description>Package for visual hand-based teleoperation.</description>
+
+	<maintainer email="tes77@case.edu">Tom Shkurti</maintainer>
+
+	<license>MIT</license>
+
+	<!--url type="repository">http://github.com/cwru-davinci/hw_camera</url-->
+
+	<author email="tes77@case.edu">Tom Shkurti</author>
+
+	<buildtool_depend>catkin</buildtool_depend>
+
+	<!--run_depend>image_view</run_depend-->
+	<run_depend>usb_cam</run_depend>
+</package>

@@ -1,0 +1,8 @@
+prefix=/home/hands/ros_ws/install
+
+Name: cisst_ros_bridge
+Description: Description of cisst_ros_bridge
+Version: 2.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lcisst_ros_bridge
+Requires: geometry_msgs roscpp rospy sensor_msgs std_msgs cisst_msgs

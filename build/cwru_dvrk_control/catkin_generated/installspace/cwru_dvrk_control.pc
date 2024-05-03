@@ -1,0 +1,8 @@
+prefix=/home/hands/ros_ws/install
+
+Name: cwru_dvrk_control
+Description: Description of cwru_dvrk_control
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lecm_interface -lpsm_interface
+Requires: roscpp actionlib sensor_msgs control_msgs cwru_dvrk_kinematics

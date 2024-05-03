@@ -1,0 +1,238 @@
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/FindOpenGL.cmake:275 (message):
+  Policy CMP0072 is not set: FindOpenGL prefers GLVND by default when
+  available.  Run "cmake --help-policy CMP0072" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+  FindOpenGL found both a legacy GL library:
+
+    OPENGL_gl_LIBRARY: /usr/lib/x86_64-linux-gnu/libGL.so
+
+  and GLVND libraries for OpenGL and GLX:
+
+    OPENGL_opengl_LIBRARY: /usr/lib/x86_64-linux-gnu/libOpenGL.so
+    OPENGL_glx_LIBRARY: /usr/lib/x86_64-linux-gnu/libGLX.so
+
+  OpenGL_GL_PREFERENCE has not been set to "GLVND" or "LEGACY", so for
+  compatibility with CMake 3.10 and below the legacy GL library will be used.
+[36mCall Stack (most recent call first):[0m
+  cisst-dependencies/CMakeLists.txt:14 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/UseSWIG.cmake:607 (message):
+  Policy CMP0078 is not set: UseSWIG generates standard target names.  Run
+  "cmake --help-policy CMP0078" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+[36mCall Stack (most recent call first):[0m
+  cmake/cisstMacros.cmake:566 (swig_add_library)
+  cisstCommon/codePython/CMakeLists.txt:17 (cisst_add_swig_module)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/UseSWIG.cmake:460 (message):
+  Policy CMP0086 is not set: UseSWIG honors SWIG_MODULE_NAME via -module
+  flag.  Run "cmake --help-policy CMP0086" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+[36mCall Stack (most recent call first):[0m
+  /usr/share/cmake-3.16/Modules/UseSWIG.cmake:702 (SWIG_ADD_SOURCE_TO_MODULE)
+  cmake/cisstMacros.cmake:566 (swig_add_library)
+  cisstCommon/codePython/CMakeLists.txt:17 (cisst_add_swig_module)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/UseSWIG.cmake:607 (message):
+  Policy CMP0078 is not set: UseSWIG generates standard target names.  Run
+  "cmake --help-policy CMP0078" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+[36mCall Stack (most recent call first):[0m
+  cmake/cisstMacros.cmake:566 (swig_add_library)
+  cisstVector/codePython/CMakeLists.txt:16 (cisst_add_swig_module)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/UseSWIG.cmake:460 (message):
+  Policy CMP0086 is not set: UseSWIG honors SWIG_MODULE_NAME via -module
+  flag.  Run "cmake --help-policy CMP0086" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+[36mCall Stack (most recent call first):[0m
+  /usr/share/cmake-3.16/Modules/UseSWIG.cmake:702 (SWIG_ADD_SOURCE_TO_MODULE)
+  cmake/cisstMacros.cmake:566 (swig_add_library)
+  cisstVector/codePython/CMakeLists.txt:16 (cisst_add_swig_module)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/UseSWIG.cmake:607 (message):
+  Policy CMP0078 is not set: UseSWIG generates standard target names.  Run
+  "cmake --help-policy CMP0078" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+[36mCall Stack (most recent call first):[0m
+  cmake/cisstMacros.cmake:566 (swig_add_library)
+  cisstOSAbstraction/codePython/CMakeLists.txt:18 (cisst_add_swig_module)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/UseSWIG.cmake:460 (message):
+  Policy CMP0086 is not set: UseSWIG honors SWIG_MODULE_NAME via -module
+  flag.  Run "cmake --help-policy CMP0086" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+[36mCall Stack (most recent call first):[0m
+  /usr/share/cmake-3.16/Modules/UseSWIG.cmake:702 (SWIG_ADD_SOURCE_TO_MODULE)
+  cmake/cisstMacros.cmake:566 (swig_add_library)
+  cisstOSAbstraction/codePython/CMakeLists.txt:18 (cisst_add_swig_module)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/UseSWIG.cmake:607 (message):
+  Policy CMP0078 is not set: UseSWIG generates standard target names.  Run
+  "cmake --help-policy CMP0078" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+[36mCall Stack (most recent call first):[0m
+  cmake/cisstMacros.cmake:566 (swig_add_library)
+  cisstNumerical/codePython/CMakeLists.txt:18 (cisst_add_swig_module)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/UseSWIG.cmake:460 (message):
+  Policy CMP0086 is not set: UseSWIG honors SWIG_MODULE_NAME via -module
+  flag.  Run "cmake --help-policy CMP0086" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+[36mCall Stack (most recent call first):[0m
+  /usr/share/cmake-3.16/Modules/UseSWIG.cmake:702 (SWIG_ADD_SOURCE_TO_MODULE)
+  cmake/cisstMacros.cmake:566 (swig_add_library)
+  cisstNumerical/codePython/CMakeLists.txt:18 (cisst_add_swig_module)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at cmake/cisstMacros.cmake:711 (get_target_property):
+  Policy CMP0026 is not set: Disallow use of the LOCATION target property.
+  Run "cmake --help-policy CMP0026" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+  The LOCATION property should not be read from target "cisstDataGenerator".
+  Use the target name directly with add_custom_command, or use the generator
+  expression $<TARGET_FILE>, as appropriate.
+
+[36mCall Stack (most recent call first):[0m
+  cisstMultiTask/code/CMakeLists.txt:15 (cisst_data_generator)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+Information: all libraries and settings have been found for /home/hands/ros_ws/src/cisst-saw/cisst/cisstMultiTask/applications/cisstComponentManager, it is possible cisst-config.cmake has not been found yet,  make sure the CMake configuration is complete first.
+Information: all libraries and settings have been found for /home/hands/ros_ws/src/cisst-saw/cisst/cisstMultiTask/applications/cisstLogger, it is possible cisst-config.cmake has not been found yet,  make sure the CMake configuration is complete first.
+Information: code in /home/hands/ros_ws/src/cisst-saw/cisst/cisstMultiTask/applications/cisstIREComponent will not be compiled, it requires cisstInteractive.  You have to change your cisst configuration if you need these features.
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/UseSWIG.cmake:607 (message):
+  Policy CMP0078 is not set: UseSWIG generates standard target names.  Run
+  "cmake --help-policy CMP0078" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+[36mCall Stack (most recent call first):[0m
+  cmake/cisstMacros.cmake:566 (swig_add_library)
+  cisstMultiTask/codePython/CMakeLists.txt:19 (cisst_add_swig_module)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/UseSWIG.cmake:460 (message):
+  Policy CMP0086 is not set: UseSWIG honors SWIG_MODULE_NAME via -module
+  flag.  Run "cmake --help-policy CMP0086" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+[36mCall Stack (most recent call first):[0m
+  /usr/share/cmake-3.16/Modules/UseSWIG.cmake:702 (SWIG_ADD_SOURCE_TO_MODULE)
+  cmake/cisstMacros.cmake:566 (swig_add_library)
+  cisstMultiTask/codePython/CMakeLists.txt:19 (cisst_add_swig_module)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at cmake/cisstMacros.cmake:711 (get_target_property):
+  Policy CMP0026 is not set: Disallow use of the LOCATION target property.
+  Run "cmake --help-policy CMP0026" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+  The LOCATION property should not be read from target "cisstDataGenerator".
+  Use the target name directly with add_custom_command, or use the generator
+  expression $<TARGET_FILE>, as appropriate.
+
+[36mCall Stack (most recent call first):[0m
+  cisstParameterTypes/code/CMakeLists.txt:15 (cisst_data_generator)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/UseSWIG.cmake:607 (message):
+  Policy CMP0078 is not set: UseSWIG generates standard target names.  Run
+  "cmake --help-policy CMP0078" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+[36mCall Stack (most recent call first):[0m
+  cmake/cisstMacros.cmake:566 (swig_add_library)
+  cisstParameterTypes/codePython/CMakeLists.txt:16 (cisst_add_swig_module)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/UseSWIG.cmake:460 (message):
+  Policy CMP0086 is not set: UseSWIG honors SWIG_MODULE_NAME via -module
+  flag.  Run "cmake --help-policy CMP0086" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+[36mCall Stack (most recent call first):[0m
+  /usr/share/cmake-3.16/Modules/UseSWIG.cmake:702 (SWIG_ADD_SOURCE_TO_MODULE)
+  cmake/cisstMacros.cmake:566 (swig_add_library)
+  cisstParameterTypes/codePython/CMakeLists.txt:16 (cisst_add_swig_module)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+Information: code in /home/hands/ros_ws/src/cisst-saw/cisst/cisstRobot/applications/cisstRandomJoints will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstRobot;cisstNumerical
+Information: code in /home/hands/ros_ws/src/cisst-saw/cisst/cisstRobot/applications/cisstForwardKinematics will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstRobot;cisstNumerical
+Information: code in /home/hands/ros_ws/src/cisst-saw/cisst/cisstRobot/applications/cisstKinematicsIdentification will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstRobot;cisstNumerical
+Information: code in /home/hands/ros_ws/src/cisst-saw/cisst/cisstRobot/applications/cisstRobotSensorCalibration will not be compiled, it requires cisstCommon;cisstVector;cisstOSAbstraction;cisstRobot;cisstNumerical
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/UseSWIG.cmake:607 (message):
+  Policy CMP0078 is not set: UseSWIG generates standard target names.  Run
+  "cmake --help-policy CMP0078" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+[36mCall Stack (most recent call first):[0m
+  cmake/cisstMacros.cmake:566 (swig_add_library)
+  cisstRobot/codePython/CMakeLists.txt:17 (cisst_add_swig_module)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/UseSWIG.cmake:460 (message):
+  Policy CMP0086 is not set: UseSWIG honors SWIG_MODULE_NAME via -module
+  flag.  Run "cmake --help-policy CMP0086" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+[36mCall Stack (most recent call first):[0m
+  /usr/share/cmake-3.16/Modules/UseSWIG.cmake:702 (SWIG_ADD_SOURCE_TO_MODULE)
+  cmake/cisstMacros.cmake:566 (swig_add_library)
+  cisstRobot/codePython/CMakeLists.txt:17 (cisst_add_swig_module)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/UseSWIG.cmake:607 (message):
+  Policy CMP0078 is not set: UseSWIG generates standard target names.  Run
+  "cmake --help-policy CMP0078" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+[36mCall Stack (most recent call first):[0m
+  cmake/cisstMacros.cmake:566 (swig_add_library)
+  cisstMesh/codePython/CMakeLists.txt:16 (cisst_add_swig_module)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/UseSWIG.cmake:460 (message):
+  Policy CMP0086 is not set: UseSWIG honors SWIG_MODULE_NAME via -module
+  flag.  Run "cmake --help-policy CMP0086" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+[36mCall Stack (most recent call first):[0m
+  /usr/share/cmake-3.16/Modules/UseSWIG.cmake:702 (SWIG_ADD_SOURCE_TO_MODULE)
+  cmake/cisstMacros.cmake:566 (swig_add_library)
+  cisstMesh/codePython/CMakeLists.txt:16 (cisst_add_swig_module)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+[33m[1mCMake Warning[0m at /home/hands/ros_ws/src/cisst-saw/cisst/share/CMakeLists.txt:18 (find_package):
+  By not providing "Findcisst.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "cisst", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "cisst" with any of
+  the following names:
+
+    cisstConfig.cmake
+    cisst-config.cmake
+
+  Add the installation prefix of "cisst" to CMAKE_PREFIX_PATH or set
+  "cisst_DIR" to a directory containing one of the above files.  If "cisst"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+

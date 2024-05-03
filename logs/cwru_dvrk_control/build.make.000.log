@@ -1,0 +1,150 @@
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[  0%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[  0%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  0%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  0%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  0%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target control_msgs_generate_messages_lisp[0m
+[  0%] Built target control_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  0%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target control_msgs_generate_messages_py[0m
+[  0%] Built target control_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target control_msgs_generate_messages_eus[0m
+[  0%] Built target control_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  0%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target control_msgs_generate_messages_cpp[0m
+[  0%] Built target control_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target control_msgs_generate_messages_nodejs[0m
+[  0%] Built target control_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  0%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[  0%] Built target trajectory_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[  0%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target psm_interface[0m
+[  5%] [32mBuilding CXX object CMakeFiles/psm_interface.dir/src/psm_interface.cpp.o[0m
+[ 10%] [32m[1mLinking CXX shared library /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/libpsm_interface.so[0m
+[ 10%] Built target psm_interface
+[35m[1mScanning dependencies of target ecm_interface[0m
+[ 15%] [32mBuilding CXX object CMakeFiles/ecm_interface.dir/src/ecm_interface.cpp.o[0m
+[35m[1mScanning dependencies of target get_psm_cart[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/get_psm_cart.dir/src/test/get_psm_cart.cpp.o[0m
+[ 25%] [32m[1mLinking CXX shared library /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/libecm_interface.so[0m
+[ 25%] Built target ecm_interface
+[35m[1mScanning dependencies of target get_psm[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/get_psm.dir/src/test/get_psm.cpp.o[0m
+[ 35%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/cwru_dvrk_control/get_psm_cart[0m
+[ 35%] Built target get_psm_cart
+[35m[1mScanning dependencies of target get_ecm[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/get_ecm.dir/src/test/get_ecm.cpp.o[0m
+[ 45%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/cwru_dvrk_control/get_psm[0m
+[ 45%] Built target get_psm
+[35m[1mScanning dependencies of target go_ecm_cart[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/go_ecm_cart.dir/src/test/go_ecm_cart.cpp.o[0m
+[35m[1mScanning dependencies of target go_ecm[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/go_ecm.dir/src/test/go_ecm.cpp.o[0m
+[ 60%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/cwru_dvrk_control/get_ecm[0m
+[ 60%] Built target get_ecm
+[35m[1mScanning dependencies of target go_psm_cart[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/go_psm_cart.dir/src/test/go_psm_cart.cpp.o[0m
+[ 70%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/cwru_dvrk_control/go_ecm_cart[0m
+[ 70%] Built target go_ecm_cart
+[35m[1mScanning dependencies of target go_psm[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/go_psm.dir/src/test/go_psm.cpp.o[0m
+[ 80%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/cwru_dvrk_control/go_ecm[0m
+[ 80%] Built target go_ecm
+[35m[1mScanning dependencies of target get_ecm_cart[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/get_ecm_cart.dir/src/test/get_ecm_cart.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/cwru_dvrk_control/go_psm_cart[0m
+[ 90%] Built target go_psm_cart
+[ 95%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/cwru_dvrk_control/go_psm[0m
+[ 95%] Built target go_psm
+[100%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/cwru_dvrk_control/lib/cwru_dvrk_control/get_ecm_cart[0m
+[100%] Built target get_ecm_cart

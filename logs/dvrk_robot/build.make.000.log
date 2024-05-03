@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target dvrk_utilities[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/dvrk_utilities.dir/src/dvrk_console.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/hands/ros_ws/devel/.private/dvrk_robot/lib/libdvrk_utilities.so[0m
+[ 50%] Built target dvrk_utilities
+[35m[1mScanning dependencies of target dvrk_console_json[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/dvrk_console_json.dir/src/dvrk_console_json.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/hands/ros_ws/devel/.private/dvrk_robot/lib/dvrk_robot/dvrk_console_json[0m
+[100%] Built target dvrk_console_json

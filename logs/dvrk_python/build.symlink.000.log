@@ -1,0 +1,4 @@
+Symlinking /home/hands/ros_ws/devel/share/dvrk_python/cmake/dvrk_pythonConfig-version.cmake
+Symlinking /home/hands/ros_ws/devel/share/dvrk_python/cmake/dvrk_pythonConfig.cmake
+Symlinking /home/hands/ros_ws/devel/lib/python3/dist-packages/dvrk/__init__.py
+Symlinking /home/hands/ros_ws/devel/lib/pkgconfig/dvrk_python.pc

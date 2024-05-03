@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hands/ros_ws/devel/.private/cwru_dvrk_control/setup.sh

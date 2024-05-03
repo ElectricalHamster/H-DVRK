@@ -1,0 +1,1 @@
+/home/hands/ros_ws/devel/.private/cwru_dvrk_launch/lib/pkgconfig/cwru_dvrk_launch.pc

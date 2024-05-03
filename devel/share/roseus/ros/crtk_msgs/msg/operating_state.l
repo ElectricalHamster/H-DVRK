@@ -1,0 +1,1 @@
+/home/hands/ros_ws/devel/.private/crtk_msgs/share/roseus/ros/crtk_msgs/msg/operating_state.l

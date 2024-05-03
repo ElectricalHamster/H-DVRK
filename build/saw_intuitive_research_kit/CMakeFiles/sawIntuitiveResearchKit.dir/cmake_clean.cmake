@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "/home/hands/ros_ws/devel/.private/saw_intuitive_research_kit/lib/libsawIntuitiveResearchKit.pdb"
+  "/home/hands/ros_ws/devel/.private/saw_intuitive_research_kit/lib/libsawIntuitiveResearchKit.so"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsDaVinciEndoscopeFocus.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsDaVinciHeadSensor.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitArm.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitConsole.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitECM.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitMTM.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitPSM.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitSUJ.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitUDPStreamer.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsPSMCompensation.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsSocketBasePSM.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsSocketClientPSM.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsSocketServerPSM.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsStateMachine.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsTeleOperationECM.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsTeleOperationPSM.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsToolList.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/robGravityCompensationMTM.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/robManipulatorECM.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/robManipulatorMTM.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/code/robManipulatorPSMSnake.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/mtsIntuitiveResearchKitArmTypes_cdg.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/mtsIntuitiveResearchKitEndoscopeTypes_cdg.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/mtsIntuitiveResearchKitToolTypes_cdg.cpp.o"
+  "CMakeFiles/sawIntuitiveResearchKit.dir/socketMessages_cdg.cpp.o"
+  "include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitArmTypes.h"
+  "include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitEndoscopeTypes.h"
+  "include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitToolTypes.h"
+  "include/sawIntuitiveResearchKit/socketMessages.h"
+  "mtsIntuitiveResearchKitArmTypes_cdg.cpp"
+  "mtsIntuitiveResearchKitEndoscopeTypes_cdg.cpp"
+  "mtsIntuitiveResearchKitToolTypes_cdg.cpp"
+  "socketMessages_cdg.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/sawIntuitiveResearchKit.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

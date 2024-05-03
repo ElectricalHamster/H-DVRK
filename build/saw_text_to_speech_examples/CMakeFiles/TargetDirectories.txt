@@ -1,0 +1,5 @@
+/home/hands/ros_ws/build/saw_text_to_speech_examples/CMakeFiles/rebuild_cache.dir
+/home/hands/ros_ws/build/saw_text_to_speech_examples/CMakeFiles/edit_cache.dir
+/home/hands/ros_ws/build/saw_text_to_speech_examples/keyboard/CMakeFiles/rebuild_cache.dir
+/home/hands/ros_ws/build/saw_text_to_speech_examples/keyboard/CMakeFiles/edit_cache.dir
+/home/hands/ros_ws/build/saw_text_to_speech_examples/keyboard/CMakeFiles/sawTextToSpeechExampleKeyboard.dir

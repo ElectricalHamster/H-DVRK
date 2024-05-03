@@ -1,0 +1,1 @@
+/home/hands/ros_ws/devel/.private/cisst_ros_crtk/lib/pkgconfig/cisst_ros_crtk.pc

@@ -1,0 +1,8 @@
+/home/hands/ros_ws/build/saw_intuitive_research_kit_applications/CMakeFiles/rebuild_cache.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit_applications/CMakeFiles/edit_cache.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit_applications/CMakeFiles/sawIntuitiveResearchKitQtConsoleJSON.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit_applications/CMakeFiles/sawIntuitiveResearchKitQtArm.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit_applications/CMakeFiles/sawIntuitiveResearchKitQtPID.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit_applications/gripper-calibration/CMakeFiles/edit_cache.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit_applications/gripper-calibration/CMakeFiles/rebuild_cache.dir
+/home/hands/ros_ws/build/saw_intuitive_research_kit_applications/gripper-calibration/CMakeFiles/sawIntuitiveResearchKitGripperCalibration.dir

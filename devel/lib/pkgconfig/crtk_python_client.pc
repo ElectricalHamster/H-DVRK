@@ -1,0 +1,1 @@
+/home/hands/ros_ws/devel/.private/crtk_python_client/lib/pkgconfig/crtk_python_client.pc
