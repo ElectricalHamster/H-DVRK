@@ -81,7 +81,14 @@ pip install tensorflow
    ```bash
    qladisp
    qlacloserelays
-   roslaunch 
+   # Launch single arm with console:
+   
+   		roslaunch cwru_dvrk_launch console_single_arm.launch [arm]:[sim]
+   
+   # Launch full system with console:
+   
+   		roslaunch cwru_dvrk_launch console_full_system.launch [sim]
+   
    ```
 4. Run program in another
 	Activate tensorflow environment
@@ -94,4 +101,4 @@ pip install tensorflow
    
 ## Result
 
-![](/Users/chenjiayi/Downloads/ros_ws/images/results.gif)
+![](./images/results.gif)
